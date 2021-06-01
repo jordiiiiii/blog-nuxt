@@ -1,0 +1,126 @@
+export const state = () => ({
+  titleImageCareers: [
+    {
+      id: 'title-image-careers-00',
+      title: 'We hack',
+      body: 'We hack software, we hack growth, we hack sales and we hack marketing. In every aspect of our work we are trying to think for ourselves and avoid herd mentality.',
+      image: 'we-hack.jpg',
+    },
+    {
+      id: 'title-image-careers-01',
+      title: 'No drama',
+      body: 'We prefer action over talk. We give hard thought to the big questions, but prefer to avoid long and pointless debates. You don’t need to shout to be heard, you just need to be genuine.',
+      image: 'no-drama.jpg',
+    },
+    {
+      id: 'title-image-careers-02',
+      title: 'Go and grow',
+      body: 'We know that people flourish when they are in their element. We try and leverage the strong suit of each employee to bring them another step forward by opening the door to experiment and grow.',
+      image: 'and-we-grow.jpg',
+    },
+  ],
+  jobCareers: [
+    {
+      id: 'job-careers-00',
+      title: 'Admin Assistant',
+      location: 'Israel',
+      filter: 'G&A',
+    },
+    {
+      id: 'job-careers-01',
+      title: 'Customer Solutions Engineer',
+      location: 'Israel',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-02',
+      title: 'Customer Success Manager EMEA',
+      location: 'Israel',
+      filter: 'Sales',
+    },
+    {
+      id: 'job-careers-03',
+      title: 'DevOps Engineer',
+      location: 'Israel',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-04',
+      title: 'Director of Product',
+      location: 'Israel',
+      filter: 'Product Management',
+    },
+    {
+      id: 'job-careers-05',
+      title: 'Frontend Engineer',
+      location: 'Israel',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-06',
+      title: 'Legal Counsel',
+      location: 'Israel',
+      filter: 'G&A',
+    },
+    {
+      id: 'job-careers-07',
+      title: 'Product Manager (cyber)',
+      location: 'Israel',
+      filter: 'Product Management',
+    },
+    {
+      id: 'job-careers-08',
+      title: 'QA Engineer',
+      location: 'Israel',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-09',
+      title: 'Senior Graphic Designer',
+      location: 'Israel',
+      filter: 'Marketing',
+    },
+    {
+      id: 'job-careers-10',
+      title: 'Senior Software Engineer',
+      location: 'Israel',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-11',
+      title: 'System Administrator',
+      location: 'Israel',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-12',
+      title: 'Channel Account Manager',
+      location: 'USA',
+      filter: 'Sales',
+    },
+    {
+      id: 'job-careers-13',
+      title: 'Customer Solutions Engineer',
+      location: 'USA',
+      filter: 'Sales',
+    },
+    {
+      id: 'job-careers-14',
+      title: 'Delivery Engineer',
+      location: 'USA',
+      filter: 'Engineering',
+    },
+    {
+      id: 'job-careers-15',
+      title: 'Sales Development Representative',
+      location: 'USA',
+      filter: 'Marketing',
+    },
+    {
+      id: 'job-careers-16',
+      title: 'Sales Engineer',
+      location: 'USA',
+      filter: 'Sales',
+    },
+  ],
+})
